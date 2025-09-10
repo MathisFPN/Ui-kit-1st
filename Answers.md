@@ -28,4 +28,18 @@ Celui pour commenter : Cmd + /
 deQueueReusableCell
 Au lieu de créer chaque cellule individuellement et de les afficher de manière sélective, nous n'en créons qu'une poignée, suffisamment pour remplir l'écran, voire un peu plus. Lors du défilement, nous réutilisons les cellules hors écran, ce qui optimise considérablement la mémoire.
 
+Expliquer ce qu’est un Segue et à quoi il sert.
+Il définit une transition entre deux contrôleurs de vue dans le fichier storyboard de l'app. 
 
+Auto-layout et contraintes 
+Auto layout et les contraintes permetent de fixer un ensemble de règles qui vont définir comment les composants d'une maquette se comporteront entre eux et avec leurs éléments parents
+
+
+C'est quoi un #selector 
+un selector est un nom de méthode qui permet de définir une méthode cible qui sera executée en réponse d'un évenement.
+
+Que rep .add ici ? 
+.add est une case de UIBarButtonItem.SystemItem qui crée un bouton système affichant l’icône +
+
+
+https://ios-nu-wine.vercel.app
